@@ -1,6 +1,6 @@
 # Hey, I'm Avionte Welcome to my github. :)
 <div align="center">
-  <img src="https://chumley.barstoolsports.com/union/2021/07/23/giphy-3.c7c65a13.gif?crop=0.80%2C0.75%2Cx0.11%2Cy0.14%2Csafe" alt="Welcome GIF" width="400" />
+  <img src="[https://chumley.barstoolsports.com/union/2021/07/23/giphy-3.c7c65a13.gif?crop=0.80%2C0.75%2Cx0.11%2Cy0.14%2Csafe](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.barstoolsports.com%2Ftopics%2Fmtv-cribs&psig=AOvVaw1Q7LNxLtRqdAJQK7OMXaWu&ust=1755189174415000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNj976ubiI8DFQAAAAAdAAAAABAE)" alt="MTV cribs intro" width="400" />
 </div>
 
 **Software Engineering Fellow at Marcy Lab School** | **Full-Stack Developer**
