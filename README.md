@@ -60,6 +60,7 @@ I'm passionate about building software that helps people connect, plan, and stay
 
 [![Made It Out](https://github-readme-stats.vercel.app/api/pin/?username=Aviont3&repo=made-it-out&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Aviont3/made-it-out)
 
+
 </div>
 
 ### ✈️ Made It Out - Collaborative Travel Planning
