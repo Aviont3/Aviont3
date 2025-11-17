@@ -58,8 +58,7 @@ I'm passionate about building software that helps people connect, plan, and stay
 
 <div align="center">
 
-[![Made It Out](https://github-readme-stats.vercel.app/api/pin/?username=Aviont3&repo=made-it-out&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Aviont3/made-it-out)
-
+[![Made It Out V1](https://img.shields.io/badge/Made_It_Out-V1-E08544?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madeit-out/madeitoutV1)
 
 </div>
 
