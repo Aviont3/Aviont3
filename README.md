@@ -1,8 +1,8 @@
-#Avionte Williams. :)
+# Avionte Williams
 
-**Software Engineering Fellow at Marcy Lab School** | **Full-Stack Developer**
+**Software Engineer | Fullstack Development** 
 
-I'm passionate about building software that helps people connect, plan, and stay organized.  I bring a unique perspective to software development focused on real-world problem-solving.
+I'm passionate about building software that helps people.  I bring a unique perspective to software development focused on real-world problem-solving. 
 
 <div align="center">
 
@@ -16,10 +16,9 @@ I'm passionate about building software that helps people connect, plan, and stay
 
 ## 🧠 About Me
 
-- 💻 **Full-stack developer** specializing in React, Flask, and MongoDB
+- 💻 **Full-stack developer** specializing in React, JavaScript, Flask, and MongoDB
 - 🎯 **Focus areas:** Backend systems, clean code architecture, and user-centered design
-- 🌆 **Location:** Brooklyn, NY 
-- 🚀 **Goal:** Seeking entry-level software engineering opportunities
+- 🚀 **Goal:** Seeking software engineering opportunities
 
 ---
 
@@ -91,12 +90,6 @@ A full-stack web application that makes planning group trips simple, visual, and
 - 🎨 **Frontend:** Creating clean, accessible UI components
 - 📚 **Learning:** TypeScript, PostgreSQL, and containerization with Docker
 - 💼 **Career:** Actively seeking software engineering opportunities
-
----
-
-## 💡 My Journey
-
-From analyzing content and managing operations to building full-stack applications – I bring a unique perspective to software development. My background in customer service has taught me to always think about the end user, while my operations experience helps me write clean, maintainable code.
 
 ---
 
