@@ -14,11 +14,11 @@ I'm passionate about building software that helps people.  I bring a unique pers
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 💻 **Full-stack developer** specializing in React, JavaScript, Flask, and MongoDB
-- 🎯 **Focus areas:** Backend systems, clean code architecture, and user-centered design
-- 🚀 **Goal:** Seeking software engineering opportunities
+- **Full-stack developer** specializing in React, JavaScript, Flask, and MongoDB
+- **Focus areas:** Backend systems, clean code architecture, and user-centered design
+- **Goal:** Seeking software engineering opportunities
 
 ---
 
@@ -49,7 +49,7 @@ I'm passionate about building software that helps people.  I bring a unique pers
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 <div align="center">
 
@@ -64,11 +64,11 @@ A full-stack web application that makes planning group trips simple, visual, and
 **🛠️ Built with:** React • Flask • MongoDB • Firebase • JWT Auth • Progressive Web App
 
 **✨ Key Features:**
-- 🤖 AI-powered trip descriptions (Google Gemini API)
-- 💬 Real-time chat with Firebase
-- 📱 Progressive Web App - install on any device
-- 🗓️ Interactive itinerary planning with drag-and-swipe navigation
-- 👥 User invitations and collaborative planning
+-  AI-powered trip descriptions (Google Gemini API)
+-  Real-time chat with Firebase
+- Progressive Web App - install on any device
+- Interactive itinerary planning with drag-and-swipe navigation
+- User invitations and collaborative planning
 
 ---
 
@@ -85,11 +85,11 @@ A full-stack web application that makes planning group trips simple, visual, and
 
 ## 🌱 What I'm Working On
 
-- 🔧 **Backend Focus:** Refining RESTful API design and data modeling
-- 🔐 **Security:** Implementing secure authentication flows and best practices
-- 🎨 **Frontend:** Creating clean, accessible UI components
-- 📚 **Learning:** TypeScript, PostgreSQL, and containerization with Docker
-- 💼 **Career:** Actively seeking software engineering opportunities
+- **Backend Focus:** Refining RESTful API design and data modeling
+- **Security:** Implementing secure authentication flows and best practices
+- **Frontend:** Creating clean, accessible UI components
+- **Learning:** TypeScript, PostgreSQL, and containerization with Docker
+- **Career:** Actively seeking software engineering opportunities
 
 ---
 
