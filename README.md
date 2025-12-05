@@ -1,11 +1,8 @@
-# Hey, I'm Avionte Welcome to my github. :)
-<div align="center">
-  <img src="https://i.makeagif.com/media/4-11-2025/lg0KQr.gif" alt="MTV cribs intro" width="400" />
-</div>
+#Avionte Williams. :)
 
 **Software Engineering Fellow at Marcy Lab School** | **Full-Stack Developer**
 
-I'm passionate about building software that helps people connect, plan, and stay organized. With a background in content analysis, customer service, and operations, I bring a unique perspective to software development focused on real-world problem solving.
+I'm passionate about building software that helps people connect, plan, and stay organized.  I bring a unique perspective to software development focused on real-world problem-solving.
 
 <div align="center">
 
@@ -20,9 +17,8 @@ I'm passionate about building software that helps people connect, plan, and stay
 ## 🧠 About Me
 
 - 💻 **Full-stack developer** specializing in React, Flask, and MongoDB
-- 🔄 **Career transitioner** from operations and customer service to software engineering
 - 🎯 **Focus areas:** Backend systems, clean code architecture, and user-centered design
-- 🌆 **Location:** Brooklyn, NY (Chicago native)
+- 🌆 **Location:** Brooklyn, NY 
 - 🚀 **Goal:** Seeking entry-level software engineering opportunities
 
 ---
@@ -110,8 +106,6 @@ From analyzing content and managing operations to building full-stack applicatio
 ![Profile Views](https://komarev.com/ghpvc/?username=Aviont3&color=blueviolet&style=for-the-badge)
 
 ---
-
-**"From Chicago roots to Brooklyn code – building solutions one commit at a time"** ✨
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avionte-williams/)
 
